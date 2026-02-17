@@ -8,7 +8,7 @@ public class Program {
             boolean repeat;
             boolean repeatMenu = true;
             while(repeatMenu){
-                System.out.println("======Financial Organization Meu======");
+                System.out.println("======Financial Organization Menu======");
                 System.out.println("1- Usar calculo padrão 50/30/20");
                 System.out.println("2- De acordo com sua realidade");
                 System.out.println("3- Sair");
